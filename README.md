@@ -1,3 +1,6 @@
+# APK: https://github.com/CodeWithIsmail/CF-Explorer-App/releases/tag/v1.0.0
+# DEMO: https://youtu.be/49m8BC4dgdE
+
 # 🚀 CF Explorer: Your Ultimate Codeforces Companion 🧑‍💻
 
 <p align="center">
